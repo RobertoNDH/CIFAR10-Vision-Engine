@@ -1,6 +1,6 @@
-# Image Recognition (CIFAR-10)
+# CIFAR10-Vision-Engine
 
-A web application built with Streamlit and TensorFlow 2 that allows users to upload images and predict their content using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset.
+A professional image recognition engine built with Streamlit and TensorFlow 2. This application allows users to classify images into CIFAR-10 categories using a Convolutional Neural Network (CNN).
 
 ## Features
 - Responsive split-column interface.
